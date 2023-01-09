@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRGenerator</string>
+    <string name="header_row">Header row</string>
+</resources>
